@@ -1,0 +1,16 @@
+section{
+   height: 300px;
+}
+nav{
+   height: 200px;
+}
+footer{
+   height: 100px;
+}
+.hh{
+   height: 200px;
+   /* margin-top: 50px; */
+}
+.sec2{
+   margin-left: 50px;
+}
